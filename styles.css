@@ -1,0 +1,71 @@
+html, body{
+    width: 375px;
+    padding: 0;
+    margin: 0;
+    background: #AA3F7B;
+}
+.appName{
+    color: #D1C7BF;
+    text-align: center;
+    margin-top: 40px;
+}
+.divForm{
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #f8f1e9;
+    border-radius: 8px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.itemForm{
+    width: 320px;
+    margin-top: 40px;
+    width: 220px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.itemInput{
+    margin-top: 20px;
+    padding: 10px 5px;
+    font-size: 18px;
+    color: #AA3F7B;
+    font-weight: bolder;
+}
+.button{
+    padding: 10px 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: #FBE2E2;
+    border: 1px solid #D1C7BF;
+    color: #AA3F7B;
+    font-weight: bold;
+}
+.listDiv{
+    margin-bottom: 20px;
+}
+.list{
+    padding: 10px 20px;
+    width: 250px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    background: #D1C7BF;
+    color: #AA3F7B;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+.listItemName{
+    margin-left: 20px;
+}
+@media (min-width: 375px){
+    html, body{
+        width: 100%;
+    }
+    
+
+}
