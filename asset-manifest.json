@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-ornottodo/static/css/main.19738f00.css",
+    "main.js": "/todo-ornottodo/static/js/main.5b761dbd.js",
+    "index.html": "/todo-ornottodo/index.html",
+    "main.19738f00.css.map": "/todo-ornottodo/static/css/main.19738f00.css.map",
+    "main.5b761dbd.js.map": "/todo-ornottodo/static/js/main.5b761dbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19738f00.css",
+    "static/js/main.5b761dbd.js"
+  ]
+}
